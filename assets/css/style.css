@@ -1,0 +1,63 @@
+
+#title{
+	background-color: orange;
+	color: white;
+	width: 17%;
+}
+
+#randomNumber{
+	background-color: green;
+	color: purple;
+	width: 17%;
+}
+.crystals{
+	display: flex;
+	align-items: center;
+}
+
+.crystal{
+	height:50px;
+	width: 50px;	
+}
+
+.crystal:hover{
+	cursor: pointer;
+}
+
+img{
+	width:50px;
+}
+
+#body{
+	background-color:skyblue;
+}
+
+#victory{
+	background-color:purple;
+	color: white;
+	width: 10%;
+}
+
+#fail{
+	background-color:purple;
+	color: white;
+	width: 10%;
+}
+
+#totalScoreis{
+	background-color:purple;
+	color: white;
+	width: 10%;
+}
+
+#totalscore{
+	background-color:purple;
+	color: white;
+	width: 10%;
+}
+
+#mainbody{
+	background-color: coral;
+	color: white;
+	width: 10%;
+}
